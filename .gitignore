@@ -1,0 +1,20 @@
+# npm
+node_modules
+npm-debug.log*
+package-lock.json
+
+# testing
+coverage
+
+# production
+dist
+demo
+screenshot
+*.tar
+*.jpeg
+*.html
+*.zip
+
+# misc
+.DS_Store
+*.swp
